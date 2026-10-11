@@ -7,4 +7,3 @@ Repozytorium do przedmiotu „Wprowadzenie do przetwarzania w chmurze”.
 1. Pracy w Google Colab
 2. Przechowywania plików w serwisie GitHub
 3. Publikowania strony w chmurze
-```
